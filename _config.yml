@@ -1,0 +1,14 @@
+layout_spectrum: 0.1852846
+color:
+  saturation: 0.5859291
+  brandStrength: 1
+  lightness: 0.2153598
+  brandColors:
+    - '#141717'
+    - '#779142'
+    - '#A3300C'
+    - '#5C4139'
+    - '#ABB4D0'
+  rhythmicContrast: 0.6256713
+typography_spectrum: 0
+name: AinsleyBoyd
