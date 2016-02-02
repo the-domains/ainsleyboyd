@@ -1,14 +1,26 @@
-layout_spectrum: 0.1852846
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.5859291
+  saturation: 1
+  lightness: 1
   brandStrength: 1
-  lightness: 0.2153598
   brandColors:
-    - '#141717'
-    - '#779142'
-    - '#A3300C'
-    - '#5C4139'
-    - '#ABB4D0'
-  rhythmicContrast: 0.6256713
-typography_spectrum: 0
+    - '#0B4BA4'
+    - '#F35B01'
+    - '#FCD716'
+    - '#D82F76'
+    - '#4C9A2F'
+  rhythmicContrast: 1
+typography_spectrum: 0.1251342
+layout_spectrum: 1
 name: AinsleyBoyd
